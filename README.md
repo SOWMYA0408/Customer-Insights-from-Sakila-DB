@@ -19,5 +19,4 @@ This project explores customer distribution using the Sakila database.
 - Which cities have the most customers
 - Ratio of active vs inactive customers
 
-📚 Source
-Sakila Sample Database
+
