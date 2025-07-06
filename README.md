@@ -1,4 +1,4 @@
-# Mini Project 2: Customer Insights from Sakila DB
+🎯 Mini Project 2: Customer Insights from Sakila DB
 This project explores customer distribution using the Sakila database.
 
 # 📊 Queries Used
@@ -18,3 +18,6 @@ This project explores customer distribution using the Sakila database.
 ## 📌 Insights
 - Which cities have the most customers
 - Ratio of active vs inactive customers
+
+📚 Source
+Sakila Sample Database
